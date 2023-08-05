@@ -134,7 +134,7 @@ h1 {
 @media only screen and (min-width: 1284px) {
 
     body {
-        background-image: url("/images/bg-desktop.svg");
+        background-image: url(../images/bg-desktop.svg);
         background-size: unset;
     }
 
